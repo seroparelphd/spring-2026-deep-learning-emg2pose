@@ -1,5 +1,12 @@
 # Spatiotemporal Modeling of Pose Estimation in Wearables
 
+## Authorship Note
+
+**My contribution: evaluation / generalization analysis – cross-user generalization (held-out users), MAE baselines, Welford normalization analysis, metadata exploration. Model training / PyTorch / HF Spaces authored by Brian Mullen (see git blame: model.py, train.py, load_data.py authored by Brian Mullen). Team: Brian Mullen, Dayoung Lee, Kristin Dona, Sero Toriano Parel. Do not claim PyTorch model implementation as solo work. See ground_truth.md.**
+
+---
+
+
 Members: Brian Mullen, Dayoung Lee, Kristin Dona, & Sero Toriano Parel
 
 Instructor: Lindsay Warrenburg & Marcos Ortiz
